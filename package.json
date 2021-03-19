@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myrlaf25/myREADMEgenerator.git"
+    "url": "git+https://github.com/kylegavinsimone/myREADMEgenerator.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/myrlaf25/myREADMEgenerator/issues"
+    "url": "https://github.com/kylegavinsimone/myREADMEgenerator/issues"
   },
-  "homepage": "https://github.com/myrlaf25/myREADMEgenerator#readme",
+  "homepage": "https://github.com/kylegavinsimone/myREADMEgenerator#readme",
   "description": ""
 }
